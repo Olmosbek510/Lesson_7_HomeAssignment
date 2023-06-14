@@ -1,0 +1,15 @@
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/bin/Debug/net6.0/Constructors
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/bin/Debug/net6.0/Constructors.deps.json
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/bin/Debug/net6.0/Constructors.runtimeconfig.json
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/bin/Debug/net6.0/Constructors.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/bin/Debug/net6.0/Constructors.pdb
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.csproj.AssemblyReference.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.AssemblyInfoInputs.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.AssemblyInfo.cs
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.csproj.CoreCompileInputs.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/refint/Constructors.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.pdb
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/Constructors.genruntimeconfig.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/Constructors/obj/Debug/net6.0/ref/Constructors.dll

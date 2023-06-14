@@ -1,0 +1,15 @@
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/bin/Debug/net6.0/CutsomCar
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/bin/Debug/net6.0/CutsomCar.deps.json
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/bin/Debug/net6.0/CutsomCar.runtimeconfig.json
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/bin/Debug/net6.0/CutsomCar.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/bin/Debug/net6.0/CutsomCar.pdb
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.csproj.AssemblyReference.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.AssemblyInfoInputs.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.AssemblyInfo.cs
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.csproj.CoreCompileInputs.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/refint/CutsomCar.dll
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.pdb
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/CutsomCar.genruntimeconfig.cache
+/Users/orazboyevolmosbek/Desktop/DotNet_Bootcamp/OOP in C-sharp/CutsomCar/obj/Debug/net6.0/ref/CutsomCar.dll
